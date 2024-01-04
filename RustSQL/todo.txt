@@ -1,0 +1,14 @@
+void OnPlayerReported(BasePlayer reporter, string targetName, string targetId, string subject, string message, string type)
+{
+    Puts($"{reporter.displayName} reported {targetName} for {subject}.");
+}
+
+void OnUserBanned(string name, string id, string ipAddress, string reason)
+{
+    Puts($"Player {name} ({id}) at {ipAddress} was banned: {reason}");
+}
+
+void OnUserKicked(IPlayer player, string reason)
+{
+    Puts($"Player {player.Name} ({player.Id}) was kicked");
+}
