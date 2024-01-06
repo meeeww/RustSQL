@@ -27,7 +27,21 @@ namespace Oxide.Plugins
             config = Config.ReadObject<PluginConfig>();
         }
 
-        
+        protected override void LoadDefaultConfig()
+        {
+            Config.WriteObject(GetDefaultConfig(), true);
+        }
+
+        private PluginConfig GetDefaultConfig()
+        {
+            return new PluginConfig
+            {
+                Host = "212.227.32.40",
+                DBName = "rust",
+                Username = "rustserver",
+                Password = "N-b[sdlaTAcDYwuq"
+            };
+        }
 
         private void OnUserConnected(IPlayer player)
         {
@@ -42,14 +56,42 @@ namespace Oxide.Plugins
                 {
                     if (results.Count == 0)
                     {
-                        var queryInsert = $"INSERT INTO PlayerData (userId, userName) VALUES (@0, @1)";
-                        Sql insertCommand = Sql.Builder.Append(queryInsert, player.Id, player.Name);
+                        var queryInsert = $"INSERT INTO PlayerData (userId, userName, userJoin) VALUES (@0, @1, @2)";
+                        Sql insertCommand = Sql.Builder.Append(queryInsert, player.Id, player.Name, DateTimeOffset.Now.ToUnixTimeSeconds());
 
                         mySql.Insert(insertCommand, connection);
 
                         mySql.CloseDb(connection);
                     }
+                    else
+                    {
+                        var queryUpdate = $"UPDATE PlayerData SET userJoin = @0 WHERE userId = @1";
+                        Sql updateCommand = Sql.Builder.Append(queryUpdate, DateTimeOffset.Now.ToUnixTimeSeconds(), player.Id);
+
+                        mySql.Insert(updateCommand, connection);
+
+                        mySql.CloseDb(connection);
+                    }
                 });
+            }
+            catch (Exception ex)
+            {
+                Puts(ex.ToString());
+            }
+        }
+
+        private void OnUserDisconnected(IPlayer player)
+        {
+            try
+            {
+                var connection = mySql.OpenDb(Config["Host"].ToString(), 3306, Config["DBName"].ToString(), Config["Username"].ToString(), Config["Password"].ToString(), this);
+
+                var queryUpdate = $"UPDATE PlayerData SET userLeft = @0, playTime = (playTime + (userLeft - userJoin)) WHERE userId = @1";
+                Sql updateCommand = Sql.Builder.Append(queryUpdate, DateTimeOffset.Now.ToUnixTimeSeconds(), player.Id);
+
+                mySql.Insert(updateCommand, connection);
+
+                mySql.CloseDb(connection);
             }
             catch (Exception ex)
             {
@@ -152,6 +194,8 @@ namespace Oxide.Plugins
         {
             if (info == null || target == null) return;
             if (info.InitiatorPlayer == null || info.InitiatorPlayer == target) return;
+
+            Puts(target.GetType().ToString());
 
             if (target is ScientistNPC)
             {
