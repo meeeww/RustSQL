@@ -8,7 +8,7 @@ using Oxide.Core.Libraries.Covalence;
 
 namespace Oxide.Plugins
 {
-    [Info("SQLConnection", "Zas", "1.0.0")]
+    [Info("SQLConnection", "Zas", "1.0.1")]
     internal class SQLConnection : CovalencePlugin
     {
         private Core.MySql.Libraries.MySql mySql = new Core.MySql.Libraries.MySql();
@@ -56,7 +56,7 @@ namespace Oxide.Plugins
                 {
                     if (results.Count == 0)
                     {
-                        var queryInsert = $"INSERT INTO PlayerData (userId, userName, userJoin) VALUES (@0, @1, @2)";
+                        var queryInsert = $"INSERT INTO PlayerData (userId, userName, active, userJoin) VALUES (@0, @1, 1, @2)";
                         Sql insertCommand = Sql.Builder.Append(queryInsert, player.Id, player.Name, DateTimeOffset.Now.ToUnixTimeSeconds());
 
                         mySql.Insert(insertCommand, connection);
@@ -65,7 +65,7 @@ namespace Oxide.Plugins
                     }
                     else
                     {
-                        var queryUpdate = $"UPDATE PlayerData SET userJoin = @0 WHERE userId = @1";
+                        var queryUpdate = $"UPDATE PlayerData SET userJoin = @0, active = 1 WHERE userId = @1";
                         Sql updateCommand = Sql.Builder.Append(queryUpdate, DateTimeOffset.Now.ToUnixTimeSeconds(), player.Id);
 
                         mySql.Insert(updateCommand, connection);
@@ -86,7 +86,7 @@ namespace Oxide.Plugins
             {
                 var connection = mySql.OpenDb(Config["Host"].ToString(), 3306, Config["DBName"].ToString(), Config["Username"].ToString(), Config["Password"].ToString(), this);
 
-                var queryUpdate = $"UPDATE PlayerData SET userLeft = @0, playTime = (playTime + (userLeft - userJoin)) WHERE userId = @1";
+                var queryUpdate = $"UPDATE PlayerData SET userLeft = @0, playTime = (playTime + (userLeft - userJoin)), active = 0 WHERE userId = @1";
                 Sql updateCommand = Sql.Builder.Append(queryUpdate, DateTimeOffset.Now.ToUnixTimeSeconds(), player.Id);
 
                 mySql.Insert(updateCommand, connection);

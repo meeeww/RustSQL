@@ -12,478 +12,478 @@
 
   <ItemGroup>
     <Reference Include="0Harmony">
-      <HintPath>E:\RustServer\RustDedicated_Data\Managed\0Harmony.dll</HintPath>
+      <HintPath>D:\RustServer\RustDedicated_Data\Managed\0Harmony.dll</HintPath>
     </Reference>
     <Reference Include="Assembly-CSharp">
-      <HintPath>E:\RustServer\RustDedicated_Data\Managed\Assembly-CSharp.dll</HintPath>
+      <HintPath>D:\RustServer\RustDedicated_Data\Managed\Assembly-CSharp.dll</HintPath>
     </Reference>
     <Reference Include="Assembly-CSharp-firstpass">
-      <HintPath>E:\RustServer\RustDedicated_Data\Managed\Assembly-CSharp-firstpass.dll</HintPath>
+      <HintPath>D:\RustServer\RustDedicated_Data\Managed\Assembly-CSharp-firstpass.dll</HintPath>
     </Reference>
     <Reference Include="Coffee.SoftMaskForUGUI">
-      <HintPath>E:\RustServer\RustDedicated_Data\Managed\Coffee.SoftMaskForUGUI.dll</HintPath>
+      <HintPath>D:\RustServer\RustDedicated_Data\Managed\Coffee.SoftMaskForUGUI.dll</HintPath>
     </Reference>
     <Reference Include="Cronos">
-      <HintPath>E:\RustServer\RustDedicated_Data\Managed\Cronos.dll</HintPath>
+      <HintPath>D:\RustServer\RustDedicated_Data\Managed\Cronos.dll</HintPath>
     </Reference>
     <Reference Include="CurvedTextMeshPro">
-      <HintPath>E:\RustServer\RustDedicated_Data\Managed\CurvedTextMeshPro.dll</HintPath>
+      <HintPath>D:\RustServer\RustDedicated_Data\Managed\CurvedTextMeshPro.dll</HintPath>
     </Reference>
     <Reference Include="DelaunayER">
-      <HintPath>E:\RustServer\RustDedicated_Data\Managed\DelaunayER.dll</HintPath>
+      <HintPath>D:\RustServer\RustDedicated_Data\Managed\DelaunayER.dll</HintPath>
     </Reference>
     <Reference Include="EasyRoads3Dv3">
-      <HintPath>E:\RustServer\RustDedicated_Data\Managed\EasyRoads3Dv3.dll</HintPath>
+      <HintPath>D:\RustServer\RustDedicated_Data\Managed\EasyRoads3Dv3.dll</HintPath>
     </Reference>
     <Reference Include="EZhex1991.EZSoftBone">
-      <HintPath>E:\RustServer\RustDedicated_Data\Managed\EZhex1991.EZSoftBone.dll</HintPath>
+      <HintPath>D:\RustServer\RustDedicated_Data\Managed\EZhex1991.EZSoftBone.dll</HintPath>
     </Reference>
     <Reference Include="Facepunch.BurstCloth">
-      <HintPath>E:\RustServer\RustDedicated_Data\Managed\Facepunch.BurstCloth.dll</HintPath>
+      <HintPath>D:\RustServer\RustDedicated_Data\Managed\Facepunch.BurstCloth.dll</HintPath>
     </Reference>
     <Reference Include="Facepunch.Console">
-      <HintPath>E:\RustServer\RustDedicated_Data\Managed\Facepunch.Console.dll</HintPath>
+      <HintPath>D:\RustServer\RustDedicated_Data\Managed\Facepunch.Console.dll</HintPath>
     </Reference>
     <Reference Include="Facepunch.Flexbox">
-      <HintPath>E:\RustServer\RustDedicated_Data\Managed\Facepunch.Flexbox.dll</HintPath>
+      <HintPath>D:\RustServer\RustDedicated_Data\Managed\Facepunch.Flexbox.dll</HintPath>
     </Reference>
     <Reference Include="Facepunch.GoogleSheets">
-      <HintPath>E:\RustServer\RustDedicated_Data\Managed\Facepunch.GoogleSheets.dll</HintPath>
+      <HintPath>D:\RustServer\RustDedicated_Data\Managed\Facepunch.GoogleSheets.dll</HintPath>
     </Reference>
     <Reference Include="Facepunch.Input">
-      <HintPath>E:\RustServer\RustDedicated_Data\Managed\Facepunch.Input.dll</HintPath>
+      <HintPath>D:\RustServer\RustDedicated_Data\Managed\Facepunch.Input.dll</HintPath>
     </Reference>
     <Reference Include="Facepunch.Network">
-      <HintPath>E:\RustServer\RustDedicated_Data\Managed\Facepunch.Network.dll</HintPath>
+      <HintPath>D:\RustServer\RustDedicated_Data\Managed\Facepunch.Network.dll</HintPath>
     </Reference>
     <Reference Include="Facepunch.Nexus">
-      <HintPath>E:\RustServer\RustDedicated_Data\Managed\Facepunch.Nexus.dll</HintPath>
+      <HintPath>D:\RustServer\RustDedicated_Data\Managed\Facepunch.Nexus.dll</HintPath>
     </Reference>
     <Reference Include="Facepunch.Raknet">
-      <HintPath>E:\RustServer\RustDedicated_Data\Managed\Facepunch.Raknet.dll</HintPath>
+      <HintPath>D:\RustServer\RustDedicated_Data\Managed\Facepunch.Raknet.dll</HintPath>
     </Reference>
     <Reference Include="Facepunch.Rcon">
-      <HintPath>E:\RustServer\RustDedicated_Data\Managed\Facepunch.Rcon.dll</HintPath>
+      <HintPath>D:\RustServer\RustDedicated_Data\Managed\Facepunch.Rcon.dll</HintPath>
     </Reference>
     <Reference Include="Facepunch.Skeleton">
-      <HintPath>E:\RustServer\RustDedicated_Data\Managed\Facepunch.Skeleton.dll</HintPath>
+      <HintPath>D:\RustServer\RustDedicated_Data\Managed\Facepunch.Skeleton.dll</HintPath>
     </Reference>
     <Reference Include="Facepunch.Sqlite">
-      <HintPath>E:\RustServer\RustDedicated_Data\Managed\Facepunch.Sqlite.dll</HintPath>
+      <HintPath>D:\RustServer\RustDedicated_Data\Managed\Facepunch.Sqlite.dll</HintPath>
     </Reference>
     <Reference Include="Facepunch.SteamNetworking">
-      <HintPath>E:\RustServer\RustDedicated_Data\Managed\Facepunch.SteamNetworking.dll</HintPath>
+      <HintPath>D:\RustServer\RustDedicated_Data\Managed\Facepunch.SteamNetworking.dll</HintPath>
     </Reference>
     <Reference Include="Facepunch.Steamworks.Win64">
-      <HintPath>E:\RustServer\RustDedicated_Data\Managed\Facepunch.Steamworks.Win64.dll</HintPath>
+      <HintPath>D:\RustServer\RustDedicated_Data\Managed\Facepunch.Steamworks.Win64.dll</HintPath>
     </Reference>
     <Reference Include="Facepunch.System">
-      <HintPath>E:\RustServer\RustDedicated_Data\Managed\Facepunch.System.dll</HintPath>
+      <HintPath>D:\RustServer\RustDedicated_Data\Managed\Facepunch.System.dll</HintPath>
     </Reference>
     <Reference Include="Facepunch.Unity">
-      <HintPath>E:\RustServer\RustDedicated_Data\Managed\Facepunch.Unity.dll</HintPath>
+      <HintPath>D:\RustServer\RustDedicated_Data\Managed\Facepunch.Unity.dll</HintPath>
     </Reference>
     <Reference Include="Facepunch.UnityEngine">
-      <HintPath>E:\RustServer\RustDedicated_Data\Managed\Facepunch.UnityEngine.dll</HintPath>
+      <HintPath>D:\RustServer\RustDedicated_Data\Managed\Facepunch.UnityEngine.dll</HintPath>
     </Reference>
     <Reference Include="Facepunch.UnwrapBaker.Settings">
-      <HintPath>E:\RustServer\RustDedicated_Data\Managed\Facepunch.UnwrapBaker.Settings.dll</HintPath>
+      <HintPath>D:\RustServer\RustDedicated_Data\Managed\Facepunch.UnwrapBaker.Settings.dll</HintPath>
     </Reference>
     <Reference Include="Fleck">
-      <HintPath>E:\RustServer\RustDedicated_Data\Managed\Fleck.dll</HintPath>
+      <HintPath>D:\RustServer\RustDedicated_Data\Managed\Fleck.dll</HintPath>
     </Reference>
     <Reference Include="GA">
-      <HintPath>E:\RustServer\RustDedicated_Data\Managed\GA.dll</HintPath>
+      <HintPath>D:\RustServer\RustDedicated_Data\Managed\GA.dll</HintPath>
     </Reference>
     <Reference Include="I18N">
-      <HintPath>E:\RustServer\RustDedicated_Data\Managed\I18N.dll</HintPath>
+      <HintPath>D:\RustServer\RustDedicated_Data\Managed\I18N.dll</HintPath>
     </Reference>
     <Reference Include="I18N.CJK">
-      <HintPath>E:\RustServer\RustDedicated_Data\Managed\I18N.CJK.dll</HintPath>
+      <HintPath>D:\RustServer\RustDedicated_Data\Managed\I18N.CJK.dll</HintPath>
     </Reference>
     <Reference Include="I18N.MidEast">
-      <HintPath>E:\RustServer\RustDedicated_Data\Managed\I18N.MidEast.dll</HintPath>
+      <HintPath>D:\RustServer\RustDedicated_Data\Managed\I18N.MidEast.dll</HintPath>
     </Reference>
     <Reference Include="I18N.Other">
-      <HintPath>E:\RustServer\RustDedicated_Data\Managed\I18N.Other.dll</HintPath>
+      <HintPath>D:\RustServer\RustDedicated_Data\Managed\I18N.Other.dll</HintPath>
     </Reference>
     <Reference Include="I18N.Rare">
-      <HintPath>E:\RustServer\RustDedicated_Data\Managed\I18N.Rare.dll</HintPath>
+      <HintPath>D:\RustServer\RustDedicated_Data\Managed\I18N.Rare.dll</HintPath>
     </Reference>
     <Reference Include="I18N.West">
-      <HintPath>E:\RustServer\RustDedicated_Data\Managed\I18N.West.dll</HintPath>
+      <HintPath>D:\RustServer\RustDedicated_Data\Managed\I18N.West.dll</HintPath>
     </Reference>
     <Reference Include="Ionic.Zip.Reduced">
-      <HintPath>E:\RustServer\RustDedicated_Data\Managed\Ionic.Zip.Reduced.dll</HintPath>
+      <HintPath>D:\RustServer\RustDedicated_Data\Managed\Ionic.Zip.Reduced.dll</HintPath>
     </Reference>
     <Reference Include="LZ4">
-      <HintPath>E:\RustServer\RustDedicated_Data\Managed\LZ4.dll</HintPath>
+      <HintPath>D:\RustServer\RustDedicated_Data\Managed\LZ4.dll</HintPath>
     </Reference>
     <Reference Include="LZ4pn">
-      <HintPath>E:\RustServer\RustDedicated_Data\Managed\LZ4pn.dll</HintPath>
+      <HintPath>D:\RustServer\RustDedicated_Data\Managed\LZ4pn.dll</HintPath>
     </Reference>
     <Reference Include="Melanchall.DryWetMidi">
-      <HintPath>E:\RustServer\RustDedicated_Data\Managed\Melanchall.DryWetMidi.dll</HintPath>
+      <HintPath>D:\RustServer\RustDedicated_Data\Managed\Melanchall.DryWetMidi.dll</HintPath>
     </Reference>
     <Reference Include="MidiJack">
-      <HintPath>E:\RustServer\RustDedicated_Data\Managed\MidiJack.dll</HintPath>
+      <HintPath>D:\RustServer\RustDedicated_Data\Managed\MidiJack.dll</HintPath>
     </Reference>
     <Reference Include="Mono.Cecil">
-      <HintPath>E:\RustServer\RustDedicated_Data\Managed\Mono.Cecil.dll</HintPath>
+      <HintPath>D:\RustServer\RustDedicated_Data\Managed\Mono.Cecil.dll</HintPath>
     </Reference>
     <Reference Include="Mono.Cecil.Mdb">
-      <HintPath>E:\RustServer\RustDedicated_Data\Managed\Mono.Cecil.Mdb.dll</HintPath>
+      <HintPath>D:\RustServer\RustDedicated_Data\Managed\Mono.Cecil.Mdb.dll</HintPath>
     </Reference>
     <Reference Include="Mono.Cecil.Pdb">
-      <HintPath>E:\RustServer\RustDedicated_Data\Managed\Mono.Cecil.Pdb.dll</HintPath>
+      <HintPath>D:\RustServer\RustDedicated_Data\Managed\Mono.Cecil.Pdb.dll</HintPath>
     </Reference>
     <Reference Include="Mono.Cecil.Rocks">
-      <HintPath>E:\RustServer\RustDedicated_Data\Managed\Mono.Cecil.Rocks.dll</HintPath>
+      <HintPath>D:\RustServer\RustDedicated_Data\Managed\Mono.Cecil.Rocks.dll</HintPath>
     </Reference>
     <Reference Include="Mono.Data.Sqlite">
-      <HintPath>E:\RustServer\RustDedicated_Data\Managed\Mono.Data.Sqlite.dll</HintPath>
+      <HintPath>D:\RustServer\RustDedicated_Data\Managed\Mono.Data.Sqlite.dll</HintPath>
     </Reference>
     <Reference Include="Mono.Data.Tds">
-      <HintPath>E:\RustServer\RustDedicated_Data\Managed\Mono.Data.Tds.dll</HintPath>
+      <HintPath>D:\RustServer\RustDedicated_Data\Managed\Mono.Data.Tds.dll</HintPath>
     </Reference>
     <Reference Include="Mono.Security">
-      <HintPath>E:\RustServer\RustDedicated_Data\Managed\Mono.Security.dll</HintPath>
+      <HintPath>D:\RustServer\RustDedicated_Data\Managed\Mono.Security.dll</HintPath>
     </Reference>
     <Reference Include="MP3Sharp">
-      <HintPath>E:\RustServer\RustDedicated_Data\Managed\MP3Sharp.dll</HintPath>
+      <HintPath>D:\RustServer\RustDedicated_Data\Managed\MP3Sharp.dll</HintPath>
     </Reference>
     <Reference Include="MySql.Data">
-      <HintPath>E:\RustServer\RustDedicated_Data\Managed\MySql.Data.dll</HintPath>
+      <HintPath>D:\RustServer\RustDedicated_Data\Managed\MySql.Data.dll</HintPath>
     </Reference>
     <Reference Include="Newtonsoft.Json">
-      <HintPath>E:\RustServer\RustDedicated_Data\Managed\Newtonsoft.Json.dll</HintPath>
+      <HintPath>D:\RustServer\RustDedicated_Data\Managed\Newtonsoft.Json.dll</HintPath>
     </Reference>
     <Reference Include="Oxide.Common">
-      <HintPath>E:\RustServer\RustDedicated_Data\Managed\Oxide.Common.dll</HintPath>
+      <HintPath>D:\RustServer\RustDedicated_Data\Managed\Oxide.Common.dll</HintPath>
     </Reference>
     <Reference Include="Oxide.Core">
-      <HintPath>E:\RustServer\RustDedicated_Data\Managed\Oxide.Core.dll</HintPath>
+      <HintPath>D:\RustServer\RustDedicated_Data\Managed\Oxide.Core.dll</HintPath>
     </Reference>
     <Reference Include="Oxide.CSharp">
-      <HintPath>E:\RustServer\RustDedicated_Data\Managed\Oxide.CSharp.dll</HintPath>
+      <HintPath>D:\RustServer\RustDedicated_Data\Managed\Oxide.CSharp.dll</HintPath>
     </Reference>
     <Reference Include="Oxide.MySql">
-      <HintPath>E:\RustServer\RustDedicated_Data\Managed\Oxide.MySql.dll</HintPath>
+      <HintPath>D:\RustServer\RustDedicated_Data\Managed\Oxide.MySql.dll</HintPath>
     </Reference>
     <Reference Include="Oxide.References">
-      <HintPath>E:\RustServer\RustDedicated_Data\Managed\Oxide.References.dll</HintPath>
+      <HintPath>D:\RustServer\RustDedicated_Data\Managed\Oxide.References.dll</HintPath>
     </Reference>
     <Reference Include="Oxide.Rust">
-      <HintPath>E:\RustServer\RustDedicated_Data\Managed\Oxide.Rust.dll</HintPath>
+      <HintPath>D:\RustServer\RustDedicated_Data\Managed\Oxide.Rust.dll</HintPath>
     </Reference>
     <Reference Include="Oxide.SQLite">
-      <HintPath>E:\RustServer\RustDedicated_Data\Managed\Oxide.SQLite.dll</HintPath>
+      <HintPath>D:\RustServer\RustDedicated_Data\Managed\Oxide.SQLite.dll</HintPath>
     </Reference>
     <Reference Include="Oxide.Unity">
-      <HintPath>E:\RustServer\RustDedicated_Data\Managed\Oxide.Unity.dll</HintPath>
+      <HintPath>D:\RustServer\RustDedicated_Data\Managed\Oxide.Unity.dll</HintPath>
     </Reference>
     <Reference Include="Rust.Clans">
-      <HintPath>E:\RustServer\RustDedicated_Data\Managed\Rust.Clans.dll</HintPath>
+      <HintPath>D:\RustServer\RustDedicated_Data\Managed\Rust.Clans.dll</HintPath>
     </Reference>
     <Reference Include="Rust.Clans.Local">
-      <HintPath>E:\RustServer\RustDedicated_Data\Managed\Rust.Clans.Local.dll</HintPath>
+      <HintPath>D:\RustServer\RustDedicated_Data\Managed\Rust.Clans.Local.dll</HintPath>
     </Reference>
     <Reference Include="Rust.Data">
-      <HintPath>E:\RustServer\RustDedicated_Data\Managed\Rust.Data.dll</HintPath>
+      <HintPath>D:\RustServer\RustDedicated_Data\Managed\Rust.Data.dll</HintPath>
     </Reference>
     <Reference Include="Rust.Demo">
-      <HintPath>E:\RustServer\RustDedicated_Data\Managed\Rust.Demo.dll</HintPath>
+      <HintPath>D:\RustServer\RustDedicated_Data\Managed\Rust.Demo.dll</HintPath>
     </Reference>
     <Reference Include="Rust.FileSystem">
-      <HintPath>E:\RustServer\RustDedicated_Data\Managed\Rust.FileSystem.dll</HintPath>
+      <HintPath>D:\RustServer\RustDedicated_Data\Managed\Rust.FileSystem.dll</HintPath>
     </Reference>
     <Reference Include="Rust.Global">
-      <HintPath>E:\RustServer\RustDedicated_Data\Managed\Rust.Global.dll</HintPath>
+      <HintPath>D:\RustServer\RustDedicated_Data\Managed\Rust.Global.dll</HintPath>
     </Reference>
     <Reference Include="Rust.Harmony">
-      <HintPath>E:\RustServer\RustDedicated_Data\Managed\Rust.Harmony.dll</HintPath>
+      <HintPath>D:\RustServer\RustDedicated_Data\Managed\Rust.Harmony.dll</HintPath>
     </Reference>
     <Reference Include="Rust.Localization">
-      <HintPath>E:\RustServer\RustDedicated_Data\Managed\Rust.Localization.dll</HintPath>
+      <HintPath>D:\RustServer\RustDedicated_Data\Managed\Rust.Localization.dll</HintPath>
     </Reference>
     <Reference Include="Rust.Platform">
-      <HintPath>E:\RustServer\RustDedicated_Data\Managed\Rust.Platform.dll</HintPath>
+      <HintPath>D:\RustServer\RustDedicated_Data\Managed\Rust.Platform.dll</HintPath>
     </Reference>
     <Reference Include="Rust.Platform.Common">
-      <HintPath>E:\RustServer\RustDedicated_Data\Managed\Rust.Platform.Common.dll</HintPath>
+      <HintPath>D:\RustServer\RustDedicated_Data\Managed\Rust.Platform.Common.dll</HintPath>
     </Reference>
     <Reference Include="Rust.Platform.Steam">
-      <HintPath>E:\RustServer\RustDedicated_Data\Managed\Rust.Platform.Steam.dll</HintPath>
+      <HintPath>D:\RustServer\RustDedicated_Data\Managed\Rust.Platform.Steam.dll</HintPath>
     </Reference>
     <Reference Include="Rust.UI">
-      <HintPath>E:\RustServer\RustDedicated_Data\Managed\Rust.UI.dll</HintPath>
+      <HintPath>D:\RustServer\RustDedicated_Data\Managed\Rust.UI.dll</HintPath>
     </Reference>
     <Reference Include="Rust.Workshop">
-      <HintPath>E:\RustServer\RustDedicated_Data\Managed\Rust.Workshop.dll</HintPath>
+      <HintPath>D:\RustServer\RustDedicated_Data\Managed\Rust.Workshop.dll</HintPath>
     </Reference>
     <Reference Include="Rust.World">
-      <HintPath>E:\RustServer\RustDedicated_Data\Managed\Rust.World.dll</HintPath>
+      <HintPath>D:\RustServer\RustDedicated_Data\Managed\Rust.World.dll</HintPath>
     </Reference>
     <Reference Include="System.ComponentModel.Composition">
-      <HintPath>E:\RustServer\RustDedicated_Data\Managed\System.ComponentModel.Composition.dll</HintPath>
+      <HintPath>D:\RustServer\RustDedicated_Data\Managed\System.ComponentModel.Composition.dll</HintPath>
     </Reference>
     <Reference Include="System.Configuration.Install">
-      <HintPath>E:\RustServer\RustDedicated_Data\Managed\System.Configuration.Install.dll</HintPath>
+      <HintPath>D:\RustServer\RustDedicated_Data\Managed\System.Configuration.Install.dll</HintPath>
     </Reference>
     <Reference Include="System.Data.SQLite">
-      <HintPath>E:\RustServer\RustDedicated_Data\Managed\System.Data.SQLite.dll</HintPath>
+      <HintPath>D:\RustServer\RustDedicated_Data\Managed\System.Data.SQLite.dll</HintPath>
     </Reference>
     <Reference Include="System.EnterpriseServices">
-      <HintPath>E:\RustServer\RustDedicated_Data\Managed\System.EnterpriseServices.dll</HintPath>
+      <HintPath>D:\RustServer\RustDedicated_Data\Managed\System.EnterpriseServices.dll</HintPath>
     </Reference>
     <Reference Include="System.ServiceModel.Internals">
-      <HintPath>E:\RustServer\RustDedicated_Data\Managed\System.ServiceModel.Internals.dll</HintPath>
+      <HintPath>D:\RustServer\RustDedicated_Data\Managed\System.ServiceModel.Internals.dll</HintPath>
     </Reference>
     <Reference Include="TimeZoneConverter">
-      <HintPath>E:\RustServer\RustDedicated_Data\Managed\TimeZoneConverter.dll</HintPath>
+      <HintPath>D:\RustServer\RustDedicated_Data\Managed\TimeZoneConverter.dll</HintPath>
     </Reference>
     <Reference Include="Unity.Burst">
-      <HintPath>E:\RustServer\RustDedicated_Data\Managed\Unity.Burst.dll</HintPath>
+      <HintPath>D:\RustServer\RustDedicated_Data\Managed\Unity.Burst.dll</HintPath>
     </Reference>
     <Reference Include="Unity.Burst.Cecil">
-      <HintPath>E:\RustServer\RustDedicated_Data\Managed\Unity.Burst.Cecil.dll</HintPath>
+      <HintPath>D:\RustServer\RustDedicated_Data\Managed\Unity.Burst.Cecil.dll</HintPath>
     </Reference>
     <Reference Include="Unity.Burst.Cecil.Mdb">
-      <HintPath>E:\RustServer\RustDedicated_Data\Managed\Unity.Burst.Cecil.Mdb.dll</HintPath>
+      <HintPath>D:\RustServer\RustDedicated_Data\Managed\Unity.Burst.Cecil.Mdb.dll</HintPath>
     </Reference>
     <Reference Include="Unity.Burst.Cecil.Pdb">
-      <HintPath>E:\RustServer\RustDedicated_Data\Managed\Unity.Burst.Cecil.Pdb.dll</HintPath>
+      <HintPath>D:\RustServer\RustDedicated_Data\Managed\Unity.Burst.Cecil.Pdb.dll</HintPath>
     </Reference>
     <Reference Include="Unity.Burst.Cecil.Rocks">
-      <HintPath>E:\RustServer\RustDedicated_Data\Managed\Unity.Burst.Cecil.Rocks.dll</HintPath>
+      <HintPath>D:\RustServer\RustDedicated_Data\Managed\Unity.Burst.Cecil.Rocks.dll</HintPath>
     </Reference>
     <Reference Include="Unity.Burst.Unsafe">
-      <HintPath>E:\RustServer\RustDedicated_Data\Managed\Unity.Burst.Unsafe.dll</HintPath>
+      <HintPath>D:\RustServer\RustDedicated_Data\Managed\Unity.Burst.Unsafe.dll</HintPath>
     </Reference>
     <Reference Include="Unity.Mathematics">
-      <HintPath>E:\RustServer\RustDedicated_Data\Managed\Unity.Mathematics.dll</HintPath>
+      <HintPath>D:\RustServer\RustDedicated_Data\Managed\Unity.Mathematics.dll</HintPath>
     </Reference>
     <Reference Include="Unity.Recorder">
-      <HintPath>E:\RustServer\RustDedicated_Data\Managed\Unity.Recorder.dll</HintPath>
+      <HintPath>D:\RustServer\RustDedicated_Data\Managed\Unity.Recorder.dll</HintPath>
     </Reference>
     <Reference Include="Unity.Recorder.Base">
-      <HintPath>E:\RustServer\RustDedicated_Data\Managed\Unity.Recorder.Base.dll</HintPath>
+      <HintPath>D:\RustServer\RustDedicated_Data\Managed\Unity.Recorder.Base.dll</HintPath>
     </Reference>
     <Reference Include="Unity.TerrainTools">
-      <HintPath>E:\RustServer\RustDedicated_Data\Managed\Unity.TerrainTools.dll</HintPath>
+      <HintPath>D:\RustServer\RustDedicated_Data\Managed\Unity.TerrainTools.dll</HintPath>
     </Reference>
     <Reference Include="Unity.TextMeshPro">
-      <HintPath>E:\RustServer\RustDedicated_Data\Managed\Unity.TextMeshPro.dll</HintPath>
+      <HintPath>D:\RustServer\RustDedicated_Data\Managed\Unity.TextMeshPro.dll</HintPath>
     </Reference>
     <Reference Include="Unity.Timeline">
-      <HintPath>E:\RustServer\RustDedicated_Data\Managed\Unity.Timeline.dll</HintPath>
+      <HintPath>D:\RustServer\RustDedicated_Data\Managed\Unity.Timeline.dll</HintPath>
     </Reference>
     <Reference Include="UnityEngine">
-      <HintPath>E:\RustServer\RustDedicated_Data\Managed\UnityEngine.dll</HintPath>
+      <HintPath>D:\RustServer\RustDedicated_Data\Managed\UnityEngine.dll</HintPath>
     </Reference>
     <Reference Include="UnityEngine.AccessibilityModule">
-      <HintPath>E:\RustServer\RustDedicated_Data\Managed\UnityEngine.AccessibilityModule.dll</HintPath>
+      <HintPath>D:\RustServer\RustDedicated_Data\Managed\UnityEngine.AccessibilityModule.dll</HintPath>
     </Reference>
     <Reference Include="UnityEngine.AIModule">
-      <HintPath>E:\RustServer\RustDedicated_Data\Managed\UnityEngine.AIModule.dll</HintPath>
+      <HintPath>D:\RustServer\RustDedicated_Data\Managed\UnityEngine.AIModule.dll</HintPath>
     </Reference>
     <Reference Include="UnityEngine.AndroidJNIModule">
-      <HintPath>E:\RustServer\RustDedicated_Data\Managed\UnityEngine.AndroidJNIModule.dll</HintPath>
+      <HintPath>D:\RustServer\RustDedicated_Data\Managed\UnityEngine.AndroidJNIModule.dll</HintPath>
     </Reference>
     <Reference Include="UnityEngine.AnimationModule">
-      <HintPath>E:\RustServer\RustDedicated_Data\Managed\UnityEngine.AnimationModule.dll</HintPath>
+      <HintPath>D:\RustServer\RustDedicated_Data\Managed\UnityEngine.AnimationModule.dll</HintPath>
     </Reference>
     <Reference Include="UnityEngine.ARModule">
-      <HintPath>E:\RustServer\RustDedicated_Data\Managed\UnityEngine.ARModule.dll</HintPath>
+      <HintPath>D:\RustServer\RustDedicated_Data\Managed\UnityEngine.ARModule.dll</HintPath>
     </Reference>
     <Reference Include="UnityEngine.AssetBundleModule">
-      <HintPath>E:\RustServer\RustDedicated_Data\Managed\UnityEngine.AssetBundleModule.dll</HintPath>
+      <HintPath>D:\RustServer\RustDedicated_Data\Managed\UnityEngine.AssetBundleModule.dll</HintPath>
     </Reference>
     <Reference Include="UnityEngine.AudioModule">
-      <HintPath>E:\RustServer\RustDedicated_Data\Managed\UnityEngine.AudioModule.dll</HintPath>
+      <HintPath>D:\RustServer\RustDedicated_Data\Managed\UnityEngine.AudioModule.dll</HintPath>
     </Reference>
     <Reference Include="UnityEngine.ClothModule">
-      <HintPath>E:\RustServer\RustDedicated_Data\Managed\UnityEngine.ClothModule.dll</HintPath>
+      <HintPath>D:\RustServer\RustDedicated_Data\Managed\UnityEngine.ClothModule.dll</HintPath>
     </Reference>
     <Reference Include="UnityEngine.ClusterInputModule">
-      <HintPath>E:\RustServer\RustDedicated_Data\Managed\UnityEngine.ClusterInputModule.dll</HintPath>
+      <HintPath>D:\RustServer\RustDedicated_Data\Managed\UnityEngine.ClusterInputModule.dll</HintPath>
     </Reference>
     <Reference Include="UnityEngine.ClusterRendererModule">
-      <HintPath>E:\RustServer\RustDedicated_Data\Managed\UnityEngine.ClusterRendererModule.dll</HintPath>
+      <HintPath>D:\RustServer\RustDedicated_Data\Managed\UnityEngine.ClusterRendererModule.dll</HintPath>
     </Reference>
     <Reference Include="UnityEngine.CoreModule">
-      <HintPath>E:\RustServer\RustDedicated_Data\Managed\UnityEngine.CoreModule.dll</HintPath>
+      <HintPath>D:\RustServer\RustDedicated_Data\Managed\UnityEngine.CoreModule.dll</HintPath>
     </Reference>
     <Reference Include="UnityEngine.CrashReportingModule">
-      <HintPath>E:\RustServer\RustDedicated_Data\Managed\UnityEngine.CrashReportingModule.dll</HintPath>
+      <HintPath>D:\RustServer\RustDedicated_Data\Managed\UnityEngine.CrashReportingModule.dll</HintPath>
     </Reference>
     <Reference Include="UnityEngine.DirectorModule">
-      <HintPath>E:\RustServer\RustDedicated_Data\Managed\UnityEngine.DirectorModule.dll</HintPath>
+      <HintPath>D:\RustServer\RustDedicated_Data\Managed\UnityEngine.DirectorModule.dll</HintPath>
     </Reference>
     <Reference Include="UnityEngine.DSPGraphModule">
-      <HintPath>E:\RustServer\RustDedicated_Data\Managed\UnityEngine.DSPGraphModule.dll</HintPath>
+      <HintPath>D:\RustServer\RustDedicated_Data\Managed\UnityEngine.DSPGraphModule.dll</HintPath>
     </Reference>
     <Reference Include="UnityEngine.GameCenterModule">
-      <HintPath>E:\RustServer\RustDedicated_Data\Managed\UnityEngine.GameCenterModule.dll</HintPath>
+      <HintPath>D:\RustServer\RustDedicated_Data\Managed\UnityEngine.GameCenterModule.dll</HintPath>
     </Reference>
     <Reference Include="UnityEngine.GIModule">
-      <HintPath>E:\RustServer\RustDedicated_Data\Managed\UnityEngine.GIModule.dll</HintPath>
+      <HintPath>D:\RustServer\RustDedicated_Data\Managed\UnityEngine.GIModule.dll</HintPath>
     </Reference>
     <Reference Include="UnityEngine.GridModule">
-      <HintPath>E:\RustServer\RustDedicated_Data\Managed\UnityEngine.GridModule.dll</HintPath>
+      <HintPath>D:\RustServer\RustDedicated_Data\Managed\UnityEngine.GridModule.dll</HintPath>
     </Reference>
     <Reference Include="UnityEngine.HotReloadModule">
-      <HintPath>E:\RustServer\RustDedicated_Data\Managed\UnityEngine.HotReloadModule.dll</HintPath>
+      <HintPath>D:\RustServer\RustDedicated_Data\Managed\UnityEngine.HotReloadModule.dll</HintPath>
     </Reference>
     <Reference Include="UnityEngine.ImageConversionModule">
-      <HintPath>E:\RustServer\RustDedicated_Data\Managed\UnityEngine.ImageConversionModule.dll</HintPath>
+      <HintPath>D:\RustServer\RustDedicated_Data\Managed\UnityEngine.ImageConversionModule.dll</HintPath>
     </Reference>
     <Reference Include="UnityEngine.IMGUIModule">
-      <HintPath>E:\RustServer\RustDedicated_Data\Managed\UnityEngine.IMGUIModule.dll</HintPath>
+      <HintPath>D:\RustServer\RustDedicated_Data\Managed\UnityEngine.IMGUIModule.dll</HintPath>
     </Reference>
     <Reference Include="UnityEngine.InputLegacyModule">
-      <HintPath>E:\RustServer\RustDedicated_Data\Managed\UnityEngine.InputLegacyModule.dll</HintPath>
+      <HintPath>D:\RustServer\RustDedicated_Data\Managed\UnityEngine.InputLegacyModule.dll</HintPath>
     </Reference>
     <Reference Include="UnityEngine.InputModule">
-      <HintPath>E:\RustServer\RustDedicated_Data\Managed\UnityEngine.InputModule.dll</HintPath>
+      <HintPath>D:\RustServer\RustDedicated_Data\Managed\UnityEngine.InputModule.dll</HintPath>
     </Reference>
     <Reference Include="UnityEngine.JSONSerializeModule">
-      <HintPath>E:\RustServer\RustDedicated_Data\Managed\UnityEngine.JSONSerializeModule.dll</HintPath>
+      <HintPath>D:\RustServer\RustDedicated_Data\Managed\UnityEngine.JSONSerializeModule.dll</HintPath>
     </Reference>
     <Reference Include="UnityEngine.LocalizationModule">
-      <HintPath>E:\RustServer\RustDedicated_Data\Managed\UnityEngine.LocalizationModule.dll</HintPath>
+      <HintPath>D:\RustServer\RustDedicated_Data\Managed\UnityEngine.LocalizationModule.dll</HintPath>
     </Reference>
     <Reference Include="UnityEngine.NVIDIAModule">
-      <HintPath>E:\RustServer\RustDedicated_Data\Managed\UnityEngine.NVIDIAModule.dll</HintPath>
+      <HintPath>D:\RustServer\RustDedicated_Data\Managed\UnityEngine.NVIDIAModule.dll</HintPath>
     </Reference>
     <Reference Include="UnityEngine.ParticleSystemModule">
-      <HintPath>E:\RustServer\RustDedicated_Data\Managed\UnityEngine.ParticleSystemModule.dll</HintPath>
+      <HintPath>D:\RustServer\RustDedicated_Data\Managed\UnityEngine.ParticleSystemModule.dll</HintPath>
     </Reference>
     <Reference Include="UnityEngine.PerformanceReportingModule">
-      <HintPath>E:\RustServer\RustDedicated_Data\Managed\UnityEngine.PerformanceReportingModule.dll</HintPath>
+      <HintPath>D:\RustServer\RustDedicated_Data\Managed\UnityEngine.PerformanceReportingModule.dll</HintPath>
     </Reference>
     <Reference Include="UnityEngine.Physics2DModule">
-      <HintPath>E:\RustServer\RustDedicated_Data\Managed\UnityEngine.Physics2DModule.dll</HintPath>
+      <HintPath>D:\RustServer\RustDedicated_Data\Managed\UnityEngine.Physics2DModule.dll</HintPath>
     </Reference>
     <Reference Include="UnityEngine.PhysicsModule">
-      <HintPath>E:\RustServer\RustDedicated_Data\Managed\UnityEngine.PhysicsModule.dll</HintPath>
+      <HintPath>D:\RustServer\RustDedicated_Data\Managed\UnityEngine.PhysicsModule.dll</HintPath>
     </Reference>
     <Reference Include="UnityEngine.ProfilerModule">
-      <HintPath>E:\RustServer\RustDedicated_Data\Managed\UnityEngine.ProfilerModule.dll</HintPath>
+      <HintPath>D:\RustServer\RustDedicated_Data\Managed\UnityEngine.ProfilerModule.dll</HintPath>
     </Reference>
     <Reference Include="UnityEngine.RuntimeInitializeOnLoadManagerInitializerModule">
-      <HintPath>E:\RustServer\RustDedicated_Data\Managed\UnityEngine.RuntimeInitializeOnLoadManagerInitializerModule.dll</HintPath>
+      <HintPath>D:\RustServer\RustDedicated_Data\Managed\UnityEngine.RuntimeInitializeOnLoadManagerInitializerModule.dll</HintPath>
     </Reference>
     <Reference Include="UnityEngine.ScreenCaptureModule">
-      <HintPath>E:\RustServer\RustDedicated_Data\Managed\UnityEngine.ScreenCaptureModule.dll</HintPath>
+      <HintPath>D:\RustServer\RustDedicated_Data\Managed\UnityEngine.ScreenCaptureModule.dll</HintPath>
     </Reference>
     <Reference Include="UnityEngine.SharedInternalsModule">
-      <HintPath>E:\RustServer\RustDedicated_Data\Managed\UnityEngine.SharedInternalsModule.dll</HintPath>
+      <HintPath>D:\RustServer\RustDedicated_Data\Managed\UnityEngine.SharedInternalsModule.dll</HintPath>
     </Reference>
     <Reference Include="UnityEngine.SpriteMaskModule">
-      <HintPath>E:\RustServer\RustDedicated_Data\Managed\UnityEngine.SpriteMaskModule.dll</HintPath>
+      <HintPath>D:\RustServer\RustDedicated_Data\Managed\UnityEngine.SpriteMaskModule.dll</HintPath>
     </Reference>
     <Reference Include="UnityEngine.SpriteShapeModule">
-      <HintPath>E:\RustServer\RustDedicated_Data\Managed\UnityEngine.SpriteShapeModule.dll</HintPath>
+      <HintPath>D:\RustServer\RustDedicated_Data\Managed\UnityEngine.SpriteShapeModule.dll</HintPath>
     </Reference>
     <Reference Include="UnityEngine.StreamingModule">
-      <HintPath>E:\RustServer\RustDedicated_Data\Managed\UnityEngine.StreamingModule.dll</HintPath>
+      <HintPath>D:\RustServer\RustDedicated_Data\Managed\UnityEngine.StreamingModule.dll</HintPath>
     </Reference>
     <Reference Include="UnityEngine.SubstanceModule">
-      <HintPath>E:\RustServer\RustDedicated_Data\Managed\UnityEngine.SubstanceModule.dll</HintPath>
+      <HintPath>D:\RustServer\RustDedicated_Data\Managed\UnityEngine.SubstanceModule.dll</HintPath>
     </Reference>
     <Reference Include="UnityEngine.SubsystemsModule">
-      <HintPath>E:\RustServer\RustDedicated_Data\Managed\UnityEngine.SubsystemsModule.dll</HintPath>
+      <HintPath>D:\RustServer\RustDedicated_Data\Managed\UnityEngine.SubsystemsModule.dll</HintPath>
     </Reference>
     <Reference Include="UnityEngine.TerrainModule">
-      <HintPath>E:\RustServer\RustDedicated_Data\Managed\UnityEngine.TerrainModule.dll</HintPath>
+      <HintPath>D:\RustServer\RustDedicated_Data\Managed\UnityEngine.TerrainModule.dll</HintPath>
     </Reference>
     <Reference Include="UnityEngine.TerrainPhysicsModule">
-      <HintPath>E:\RustServer\RustDedicated_Data\Managed\UnityEngine.TerrainPhysicsModule.dll</HintPath>
+      <HintPath>D:\RustServer\RustDedicated_Data\Managed\UnityEngine.TerrainPhysicsModule.dll</HintPath>
     </Reference>
     <Reference Include="UnityEngine.TextCoreFontEngineModule">
-      <HintPath>E:\RustServer\RustDedicated_Data\Managed\UnityEngine.TextCoreFontEngineModule.dll</HintPath>
+      <HintPath>D:\RustServer\RustDedicated_Data\Managed\UnityEngine.TextCoreFontEngineModule.dll</HintPath>
     </Reference>
     <Reference Include="UnityEngine.TextCoreTextEngineModule">
-      <HintPath>E:\RustServer\RustDedicated_Data\Managed\UnityEngine.TextCoreTextEngineModule.dll</HintPath>
+      <HintPath>D:\RustServer\RustDedicated_Data\Managed\UnityEngine.TextCoreTextEngineModule.dll</HintPath>
     </Reference>
     <Reference Include="UnityEngine.TextRenderingModule">
-      <HintPath>E:\RustServer\RustDedicated_Data\Managed\UnityEngine.TextRenderingModule.dll</HintPath>
+      <HintPath>D:\RustServer\RustDedicated_Data\Managed\UnityEngine.TextRenderingModule.dll</HintPath>
     </Reference>
     <Reference Include="UnityEngine.TilemapModule">
-      <HintPath>E:\RustServer\RustDedicated_Data\Managed\UnityEngine.TilemapModule.dll</HintPath>
+      <HintPath>D:\RustServer\RustDedicated_Data\Managed\UnityEngine.TilemapModule.dll</HintPath>
     </Reference>
     <Reference Include="UnityEngine.TLSModule">
-      <HintPath>E:\RustServer\RustDedicated_Data\Managed\UnityEngine.TLSModule.dll</HintPath>
+      <HintPath>D:\RustServer\RustDedicated_Data\Managed\UnityEngine.TLSModule.dll</HintPath>
     </Reference>
     <Reference Include="UnityEngine.UI">
-      <HintPath>E:\RustServer\RustDedicated_Data\Managed\UnityEngine.UI.dll</HintPath>
+      <HintPath>D:\RustServer\RustDedicated_Data\Managed\UnityEngine.UI.dll</HintPath>
     </Reference>
     <Reference Include="UnityEngine.UIElementsModule">
-      <HintPath>E:\RustServer\RustDedicated_Data\Managed\UnityEngine.UIElementsModule.dll</HintPath>
+      <HintPath>D:\RustServer\RustDedicated_Data\Managed\UnityEngine.UIElementsModule.dll</HintPath>
     </Reference>
     <Reference Include="UnityEngine.UIElementsNativeModule">
-      <HintPath>E:\RustServer\RustDedicated_Data\Managed\UnityEngine.UIElementsNativeModule.dll</HintPath>
+      <HintPath>D:\RustServer\RustDedicated_Data\Managed\UnityEngine.UIElementsNativeModule.dll</HintPath>
     </Reference>
     <Reference Include="UnityEngine.UIModule">
-      <HintPath>E:\RustServer\RustDedicated_Data\Managed\UnityEngine.UIModule.dll</HintPath>
+      <HintPath>D:\RustServer\RustDedicated_Data\Managed\UnityEngine.UIModule.dll</HintPath>
     </Reference>
     <Reference Include="UnityEngine.UmbraModule">
-      <HintPath>E:\RustServer\RustDedicated_Data\Managed\UnityEngine.UmbraModule.dll</HintPath>
+      <HintPath>D:\RustServer\RustDedicated_Data\Managed\UnityEngine.UmbraModule.dll</HintPath>
     </Reference>
     <Reference Include="UnityEngine.UNETModule">
-      <HintPath>E:\RustServer\RustDedicated_Data\Managed\UnityEngine.UNETModule.dll</HintPath>
+      <HintPath>D:\RustServer\RustDedicated_Data\Managed\UnityEngine.UNETModule.dll</HintPath>
     </Reference>
     <Reference Include="UnityEngine.UnityAnalyticsCommonModule">
-      <HintPath>E:\RustServer\RustDedicated_Data\Managed\UnityEngine.UnityAnalyticsCommonModule.dll</HintPath>
+      <HintPath>D:\RustServer\RustDedicated_Data\Managed\UnityEngine.UnityAnalyticsCommonModule.dll</HintPath>
     </Reference>
     <Reference Include="UnityEngine.UnityAnalyticsModule">
-      <HintPath>E:\RustServer\RustDedicated_Data\Managed\UnityEngine.UnityAnalyticsModule.dll</HintPath>
+      <HintPath>D:\RustServer\RustDedicated_Data\Managed\UnityEngine.UnityAnalyticsModule.dll</HintPath>
     </Reference>
     <Reference Include="UnityEngine.UnityConnectModule">
-      <HintPath>E:\RustServer\RustDedicated_Data\Managed\UnityEngine.UnityConnectModule.dll</HintPath>
+      <HintPath>D:\RustServer\RustDedicated_Data\Managed\UnityEngine.UnityConnectModule.dll</HintPath>
     </Reference>
     <Reference Include="UnityEngine.UnityCurlModule">
-      <HintPath>E:\RustServer\RustDedicated_Data\Managed\UnityEngine.UnityCurlModule.dll</HintPath>
+      <HintPath>D:\RustServer\RustDedicated_Data\Managed\UnityEngine.UnityCurlModule.dll</HintPath>
     </Reference>
     <Reference Include="UnityEngine.UnityTestProtocolModule">
-      <HintPath>E:\RustServer\RustDedicated_Data\Managed\UnityEngine.UnityTestProtocolModule.dll</HintPath>
+      <HintPath>D:\RustServer\RustDedicated_Data\Managed\UnityEngine.UnityTestProtocolModule.dll</HintPath>
     </Reference>
     <Reference Include="UnityEngine.UnityWebRequestAssetBundleModule">
-      <HintPath>E:\RustServer\RustDedicated_Data\Managed\UnityEngine.UnityWebRequestAssetBundleModule.dll</HintPath>
+      <HintPath>D:\RustServer\RustDedicated_Data\Managed\UnityEngine.UnityWebRequestAssetBundleModule.dll</HintPath>
     </Reference>
     <Reference Include="UnityEngine.UnityWebRequestAudioModule">
-      <HintPath>E:\RustServer\RustDedicated_Data\Managed\UnityEngine.UnityWebRequestAudioModule.dll</HintPath>
+      <HintPath>D:\RustServer\RustDedicated_Data\Managed\UnityEngine.UnityWebRequestAudioModule.dll</HintPath>
     </Reference>
     <Reference Include="UnityEngine.UnityWebRequestModule">
-      <HintPath>E:\RustServer\RustDedicated_Data\Managed\UnityEngine.UnityWebRequestModule.dll</HintPath>
+      <HintPath>D:\RustServer\RustDedicated_Data\Managed\UnityEngine.UnityWebRequestModule.dll</HintPath>
     </Reference>
     <Reference Include="UnityEngine.UnityWebRequestTextureModule">
-      <HintPath>E:\RustServer\RustDedicated_Data\Managed\UnityEngine.UnityWebRequestTextureModule.dll</HintPath>
+      <HintPath>D:\RustServer\RustDedicated_Data\Managed\UnityEngine.UnityWebRequestTextureModule.dll</HintPath>
     </Reference>
     <Reference Include="UnityEngine.UnityWebRequestWWWModule">
-      <HintPath>E:\RustServer\RustDedicated_Data\Managed\UnityEngine.UnityWebRequestWWWModule.dll</HintPath>
+      <HintPath>D:\RustServer\RustDedicated_Data\Managed\UnityEngine.UnityWebRequestWWWModule.dll</HintPath>
     </Reference>
     <Reference Include="UnityEngine.VehiclesModule">
-      <HintPath>E:\RustServer\RustDedicated_Data\Managed\UnityEngine.VehiclesModule.dll</HintPath>
+      <HintPath>D:\RustServer\RustDedicated_Data\Managed\UnityEngine.VehiclesModule.dll</HintPath>
     </Reference>
     <Reference Include="UnityEngine.VFXModule">
-      <HintPath>E:\RustServer\RustDedicated_Data\Managed\UnityEngine.VFXModule.dll</HintPath>
+      <HintPath>D:\RustServer\RustDedicated_Data\Managed\UnityEngine.VFXModule.dll</HintPath>
     </Reference>
     <Reference Include="UnityEngine.VideoModule">
-      <HintPath>E:\RustServer\RustDedicated_Data\Managed\UnityEngine.VideoModule.dll</HintPath>
+      <HintPath>D:\RustServer\RustDedicated_Data\Managed\UnityEngine.VideoModule.dll</HintPath>
     </Reference>
     <Reference Include="UnityEngine.VirtualTexturingModule">
-      <HintPath>E:\RustServer\RustDedicated_Data\Managed\UnityEngine.VirtualTexturingModule.dll</HintPath>
+      <HintPath>D:\RustServer\RustDedicated_Data\Managed\UnityEngine.VirtualTexturingModule.dll</HintPath>
     </Reference>
     <Reference Include="UnityEngine.VRModule">
-      <HintPath>E:\RustServer\RustDedicated_Data\Managed\UnityEngine.VRModule.dll</HintPath>
+      <HintPath>D:\RustServer\RustDedicated_Data\Managed\UnityEngine.VRModule.dll</HintPath>
     </Reference>
     <Reference Include="UnityEngine.WindModule">
-      <HintPath>E:\RustServer\RustDedicated_Data\Managed\UnityEngine.WindModule.dll</HintPath>
+      <HintPath>D:\RustServer\RustDedicated_Data\Managed\UnityEngine.WindModule.dll</HintPath>
     </Reference>
     <Reference Include="UnityEngine.XRModule">
-      <HintPath>E:\RustServer\RustDedicated_Data\Managed\UnityEngine.XRModule.dll</HintPath>
+      <HintPath>D:\RustServer\RustDedicated_Data\Managed\UnityEngine.XRModule.dll</HintPath>
     </Reference>
   </ItemGroup>
 
